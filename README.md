@@ -80,3 +80,9 @@ Center for Computational & Data Sciences (CCDS)
 Independent University, Bangladesh  
 
 
+
+---
+
+## References 
+
+1. https://github.com/aknakshay/VGG16---CIFAR10/blob/master/VGG16.ipynb
