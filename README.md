@@ -67,7 +67,7 @@ This workshop is made possible through the dedication and guidance of:
   [ccds.ai](https://ccds.ai) | Data and Design Lab  
   Independent University, Bangladesh  
 
-  and the Senior Research Assistants  
+  and the **Senior Research Assistants**  
 
 ---
 
