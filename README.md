@@ -1,4 +1,4 @@
-# CCDS Research Intern - Workshop on Deep Learning Code Management
+# CCDS Research Intern, 2024-2025 - Workshop on Deep Learning Code Management
 
 ## Workshop Details
 **Dates:** December 12-13  
