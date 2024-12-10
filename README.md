@@ -1,11 +1,15 @@
 # CCDS Research Intern, 2024-2025 - Workshop on Deep Learning Code Management
 
 ## Workshop Details
-**Dates:** December 12-13  
-**Time/Data of Workshop:**
-Thursday, Dec 12 1:00pm - 4:30pm
-Friday Dec 13: 9:30am - 4:30pm 
-**Location:** CCDS lab (BC 6002), Onsite, IUB 
+
+**Dates:** December 12-13, 2024  
+**Schedule:**  
+- **Thursday, December 12**: 1:00 PM - 4:30 PM  
+- **Friday, December 13**: 9:30 AM - 4:30 PM  
+
+**Location:** CCDS Lab (Room BC 6002), Independent University, Bangladesh (IUB)  
+**Mode:** Onsite  
+
 
 This workshop is designed to provide hands-on experience in deep learning code management, model training, and visualization techniques. Participants will work on advanced machine learning models and explore tools for managing and visualizing their projects effectively.
 
