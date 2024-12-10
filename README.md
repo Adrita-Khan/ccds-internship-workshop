@@ -63,10 +63,11 @@ This workshop is made possible through the dedication and guidance of:
 
 **Dr. AKM Mahbubur Rahman**  
   Facilitator and Mentor  
-  Senior Research Assistants  
   Center for Computational & Data Sciences (CCDS)  
   [ccds.ai](https://ccds.ai) | Data and Design Lab  
   Independent University, Bangladesh  
+
+  and the Senior Research Assistants  
 
 ---
 
