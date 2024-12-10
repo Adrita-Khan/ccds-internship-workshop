@@ -2,6 +2,9 @@
 
 ## Workshop Details
 
+**Overview:**  
+This workshop is designed to provide hands-on experience in deep learning code management, model training, and visualization techniques. Participants will work on advanced machine learning models and explore tools for managing and visualizing their projects effectively.
+
 **Dates:** December 12-13, 2024  
 **Schedule:**  
 - **Thursday, December 12**: 1:00 PM - 4:30 PM  
@@ -10,8 +13,7 @@
 **Location:** CCDS Lab (Room BC 6002), Independent University, Bangladesh (IUB)  
 **Mode:** Onsite  
 
-**Overview:**  
-This workshop is designed to provide hands-on experience in deep learning code management, model training, and visualization techniques. Participants will work on advanced machine learning models and explore tools for managing and visualizing their projects effectively.
+
 
 ---
 
