@@ -50,5 +50,26 @@ This workshop is designed to provide hands-on experience in deep learning code m
 - Familiarity with Python and basic deep learning concepts.
 - Access to VS Code, Google Colab, and the required libraries (TensorFlow, PyTorch, etc.).
 
+---
+## Acknowledgements
+
+This workshop is made possible through the dedication and guidance of:
+
+- **Dr. AKM Mahbubur Rahman**  
+  Facilitator and Mentor  
+  Senior Research Assistants  
+  Center for Computational & Data Sciences (CCDS)  
+  [ccds.ai](https://ccds.ai) | Data and Design Lab  
+  Independent University, Bangladesh  
+
+---
+
+Special thanks to:  
+**Prof. Dr. Amin A. Ali**  
+Department of Computer Science & Engineering  
+Director, AI & ML Wing  
+Center for Computational & Data Sciences (CCDS)  
+[ccds.ai](https://ccds.ai) | Data and Design Lab  
+Independent University, Bangladesh  
 
 
