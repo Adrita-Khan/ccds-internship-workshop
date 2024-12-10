@@ -55,7 +55,7 @@ This workshop is designed to provide hands-on experience in deep learning code m
 
 This workshop is made possible through the dedication and guidance of:
 
-- **Dr. AKM Mahbubur Rahman**  
+**Dr. AKM Mahbubur Rahman**  
   Facilitator and Mentor  
   Senior Research Assistants  
   Center for Computational & Data Sciences (CCDS)  
