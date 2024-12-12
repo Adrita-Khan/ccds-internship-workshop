@@ -107,4 +107,10 @@ a. For developing VGG 16 for image classification and exploring related techniqu
 18. [Intel Image Classification with VGG16 - GitHub](https://github.com/nisarbalti4/Intel-Image-Classification-with-VGG16---Transfer-Learning-and-Fine-Tuning)
 19. [Deep Learning with VGG16 - GitHub](https://github.com/KhushiBhadange/Deep-Learning-Image-Recognition-with-VGG16)
 20. [Classification with Transfer Learning - Tamer Online](https://tameronline.github.io/Classification-with-Transfer-Learning/)
-21. [VGG16 with Keras on CIFAR10 - Colab](https://colab.research.google.com/github/pravinkr/vgg16-cifar10-with-keras/blob/master/cifar_10_with_VGG16_keras.ipynb)
+21. [VGG16 with Keras on CIFAR10 - Colab](https://colab.research.google.com/github/pravinkr/vgg16-cifar10-with-keras/blob/master/cifar_10_with_VGG16_keras.ipynb
+22. [CIFAR-10 Data - Kaggle](https://www.kaggle.com/competitions/cifar-10/data)
+23. [CIFAR-10 Dataset - Toronto](https://www.cs.toronto.edu/~kriz/cifar.html)
+24. [CIFAR-10 Dataset - TensorFlow](https://www.tensorflow.org/datasets/catalog/cifar10)
+25. [CIFAR-10 - Wikipedia](https://en.wikipedia.org/wiki/CIFAR-10)
+26. [CIFAR-10 Dataset - PyTorch](https://pytorch.org/vision/0.19/generated/torchvision.datasets.CIFAR10.html)
+27. [Loading CIFAR-10 Dataset in PyTorch - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-load-cifar10-dataset-in-pytorch/)
