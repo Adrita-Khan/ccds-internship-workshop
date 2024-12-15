@@ -85,6 +85,11 @@ Independent University, Bangladesh
 
 ## References
 
+[deep-learning-code-management-workshop](https://github.com/mirsazzathossain/deep-learning-code-management-workshop)
+
+---
+
+
 *For developing VGG16 for image classification and exploring related techniques such as plotting loss curves, analyzing the impact of batches, dropout, batch normalization, learning rate scheduling, and using the Adam optimizer, the following resources are recommended:*
 
 1. [VGG16 on CIFAR10 - GitHub](https://github.com/aknakshay/VGG16---CIFAR10/blob/master/VGG16.ipynb)  
