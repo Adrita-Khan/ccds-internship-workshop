@@ -85,8 +85,8 @@ Independent University, Bangladesh
 
 ## References
 
-[deep-learning-code-management-workshop](https://github.com/mirsazzathossain/deep-learning-code-management-workshop)
-[Emotions Dataset for NLP](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)
+1. [deep-learning-code-management-workshop](https://github.com/mirsazzathossain/deep-learning-code-management-workshop)
+2. [Emotions Dataset for NLP](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)
 
 ---
 
